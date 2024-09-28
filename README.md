@@ -5,5 +5,5 @@
 - 🚀 Now I work as a frontend developer on React/TypeScript.
 - 🤖 My hobby is writing programs for microcontrollers in C language.
 
-🔥 **I'm currently searching for new job opportunities in 🇺🇸 the USA.  
-If your company is looking for a skilled worker, please feel free to [reach out to me](https://www.linkedin.com/in/pkolt/)!**
+🔥 **Now, I'm searching for a new job in 🇺🇸 the USA or 🇪🇺 Europe.  
+🔍 If you need a skilled worker, please [contact me](https://www.linkedin.com/in/pkolt/)!**
